@@ -6,3 +6,5 @@ Different small scripts I wrote to automate things I got annoyed of doing manual
 - deckparser: parses xmage .dck files to a .txt format readable for other programs/sites
 
 - permanence: used to generate plannings for achats solidaires, uses a csv from framaform to distribute tasks between the participants
+
+Probably quite ugly, but they work in the limited cases I use them.
